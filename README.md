@@ -3,7 +3,7 @@
 Welcome to my personal **Portfolio Website**, a simple homepage created to showcase my background, interests, and current academic path. This website is part of a course project for CIS 041 at San José City College and represents my first step into the world of web development.
 ---
 
-## Live Site
+## Site
 
 You can view the deployed website here:  
 https://leanna-wu.github.io/portfolio-website/
