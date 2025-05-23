@@ -1,8 +1,6 @@
 # My Personal Portfolio Website
 
-Welcome to my personal **Portfolio Website**, designed to showcase my academic background, technical skills, and personal 
-projects. This website was built as part of the CIS 041 course at San José City College.
-
+Welcome to my personal **Portfolio Website**, a simple homepage created to showcase my background, interests, and current academic path. This website is part of a course project for CIS 041 at San José City College and represents my first step into the world of web development.
 ---
 
 ## Live Site
@@ -13,9 +11,10 @@ https://leanna-wu.github.io/portfolio-website/
 ---
 
 ## About the Website
-
-This responsive website was built to highlight:
+This site serves as an introduction to who I am and what I’m currently working on. It features:
 - My educational background in **Economics** and **Business Administration**
+- Information about the course and school
+- A fun “**About Me**” section with facts and interests
 - Ongoing and completed projects such as the **Budget Tracker**, **To-Do List App**, and open-source contributions
 - Technical proficiencies in **Python**, **C++**, **Java**, and financial tools
 - Contact methods for professional networking
@@ -39,12 +38,3 @@ This responsive website was built to highlight:
 - Contact section (email and LinkedIn)
 
 ---
-
-## Installation Instructions (Local Development)
-
-To view or edit this website locally:
-
-```bash
-git clone https://github.com/yourusername/portfolio-website.git
-cd portfolio-website
-open index.html
