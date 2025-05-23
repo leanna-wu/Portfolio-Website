@@ -1,7 +1,7 @@
 # My Personal Portfolio Website
 
 Welcome to my personal **Portfolio Website**, designed to showcase my academic background, technical skills, and personal 
-projects. The website serves as a central hub where you can explore my resume, projects, and contact information.
+projects. This website was built as part of the CIS 041 course at San José City College.
 
 ---
 
