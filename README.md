@@ -8,7 +8,7 @@ projects. The website serves as a central hub where you can explore my resume, p
 ## Live Site
 
 You can view the deployed website here:  
-https://leanna-wu.github.io/portfolio-website/index.html
+https://leanna-wu.github.io/portfolio-website/
 
 ---
 
