@@ -5,14 +5,14 @@ projects. The website serves as a central hub where you can explore my resume, p
 
 ---
 
-## 🌐 Live Site
+## Live Site
 
 You can view the deployed website here:  
 👉 [https://yourusername.github.io/portfolio-website](https://yourusername.github.io/portfolio-website)
 
 ---
 
-## 📝 About the Website
+## About the Website
 
 This responsive website was built to highlight:
 - My educational background in **Economics** and **Business Administration**
@@ -40,7 +40,7 @@ This responsive website was built to highlight:
 
 ---
 
-## 🛠 Installation Instructions (Local Development)
+## Installation Instructions (Local Development)
 
 To view or edit this website locally:
 
